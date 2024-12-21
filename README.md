@@ -103,7 +103,7 @@
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/donor-management-app.git
+   git clone https://github.com/SHALMA-DM/donor-management-app.git
    cd donor-management-app
    ```
 
