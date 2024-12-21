@@ -104,7 +104,7 @@
 
    ```bash
    git clone https://github.com/SHALMA-DM/DonorManagementApp.git
-   cd donor-management-app
+   cd DonorManagementApp
    ```
 
 2. **Install Dependencies**:
